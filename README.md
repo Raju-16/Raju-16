@@ -3,6 +3,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Raju Prajapati</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
+<div style="text-align: center;">
 
 ## 🙋‍♂️ About Me
 
@@ -71,3 +72,4 @@
     <img src="https://komarev.com/ghpvc/?username=Raju-16">
 </a>
 <a href="https://github.com/Raju-16"><img src="https://img.shields.io/github/followers/Raju-16?label=Followers&style=social" alt="GitHub Badge"></a>
+</div>
