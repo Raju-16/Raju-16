@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://google.com)**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://raju-portfolio-delta.vercel.app/)**
 
 - 📫 How to reach me **rpraju210@gmail.com**
 
