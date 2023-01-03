@@ -1,6 +1,8 @@
-<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
+<p align="center">
+    <a href="#"><img width="70%" height="auto" src="https://camo.githubusercontent.com/f1572aab0a069b4070bf0ffeb4125c3884ec51d2595b5242f83c4199de9c450a/68747470733a2f2f7237713677397a362e726f636b657463646e2e6d652f6361726565722f77702d636f6e74656e742f75706c6f6164732f323032312f30362f322d34362e676966"/></a>
+</p>
 
-<h1 align="center">Hi<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">,I'm Raju Prajapati</h1>
+<h1 align="center">Hi, I'm Raju Prajapati</h1>
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 <div style="text-align: center;">
